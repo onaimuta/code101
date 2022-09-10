@@ -19,15 +19,15 @@ code if 'expression' is true.
 fi
 
 COMMENTS
+country="nation"
 
-read country
+read nation
 
-if ["country"="zimbabwe"]; then
-    echo zimbo
-    exit
-elif ["country"="uganda"]
+    if ["country"="zimbabwe"]; then
+        echo zimbo
+        exit
+    elif ["country"="uganda"]
     echo ug
-else
+    else
 
-fi
-exit
+    fi
