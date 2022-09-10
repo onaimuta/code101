@@ -19,3 +19,15 @@ code if 'expression' is true.
 fi
 
 COMMENTS
+
+read country
+
+if ["country"="zimbabwe"]; then
+    echo zimbo
+    exit
+elif ["country"="uganda"]
+    echo ug
+else
+
+fi
+exit
