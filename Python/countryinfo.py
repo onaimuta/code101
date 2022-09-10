@@ -1,3 +1,6 @@
+'''
+I am from Zimbabwe but have lived in Uganda for a long time
+'''
 from countryinfo import CountryInfo
 count = input("Enter Country Name")
 country = CountryInfo

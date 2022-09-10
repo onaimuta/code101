@@ -1,6 +1,5 @@
 # coding = utf-8
-#from countryinfo import CountryInfo
-
+from countryinfo import CountryInfo
 #country = CountryInfo('Uganda')
 #currency = country.currencies()
 #print (currency)
