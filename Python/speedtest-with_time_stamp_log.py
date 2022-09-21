@@ -1,6 +1,8 @@
-from datetime import datetime
+#from datetime import datetime
 
-now = datetime.now()
+#now = datetime.now()
 
-current_time = now.strftime("%H:%M:%S")
-print("Current Time =", current_time)
+#current_time = now.strftime("%H:%M:%S")
+#print("Current Time =", current_time)
+
+import logging
