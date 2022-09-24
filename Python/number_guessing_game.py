@@ -1,1 +1,1 @@
-#Number guessing agame
+#Number guessing game

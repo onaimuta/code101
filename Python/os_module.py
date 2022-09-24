@@ -1,3 +1,3 @@
 import os
-print (os.name)
-print (os.getcwd)
+print ("Built on "+os.name+" technology")
+# print (os.environ)
