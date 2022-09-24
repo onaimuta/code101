@@ -7,4 +7,3 @@ print('The addition of a and b results:', (a+b))
 #Numeric: Number Values
 #Variable 
 #Functions
-
