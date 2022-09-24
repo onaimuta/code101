@@ -8,17 +8,3 @@ print(len(my_list))
 # Just a missed or added ",", can change everything
 word = "Mutambashora";
 print (len(word))
-
-from unicodedata import name
-from countryinfo import CountryInfo #Country info module
-name = "UK"
-country = CountryInfo(name)
-data1 = country.capital()
-data2 = country.alt_spellings()
-data3 = country.info
-print (data1)
-print (data2)
-print (data3)
-print(len(name))
-
-
