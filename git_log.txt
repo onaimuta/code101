@@ -1,0 +1,194 @@
+commit 4a1550f7bec5552ff6e076f2ba78ecb70cf65a38
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Sat Sep 24 21:15:56 2022 +0300
+
+    python
+
+commit 8797cfb1ec8ad5fa7d64bb4415843f05a455c1d6
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Sat Sep 24 20:55:19 2022 +0300
+
+    Cleanup
+
+commit 4986e87a6d5e28f33b9db0d7d5e89d20a784108c
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Fri Sep 23 12:41:53 2022 +0300
+
+    Indentations corrections
+
+commit 2734001bae9ea00b7fac9048cb49d01e5462f12c
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Fri Sep 23 12:32:47 2022 +0300
+
+    moved aws-eks-... folder to desktop
+
+commit 50be7749492477b2cbbe4ee9f2b2da249946d75d
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Fri Sep 23 12:17:56 2022 +0300
+
+    aws-eks-kubernetes-masterclass/
+
+commit 3d753207e08fe57902161e585bc9bb7acbb72718
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Fri Sep 23 12:13:16 2022 +0300
+
+    yaml vs-code updates
+
+commit 392a84397db0b86231d6eb1be598044df5890b95
+Author: root <root@TRAGELA-001.localdomain>
+Date:   Fri Sep 23 10:01:34 2022 +0300
+
+    datetime module 2 and Test Page
+
+commit 9fca72b90e5e7e64059f50848aec70fb56eab5bd
+Author: root <root@TRAGELA-001.localdomain>
+Date:   Fri Sep 23 04:22:19 2022 +0300
+
+    AIC Tasks
+
+commit ea391ee677bf1fe20daed4656a9c259f7b858b2f
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Thu Sep 22 10:51:05 2022 +0300
+
+    renamed fil02 to file02
+
+commit c10ac32e6b0b1e2465f1c03aea03e1dc13cbfc82
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Wed Sep 21 15:10:05 2022 +0300
+
+    aws eks project
+
+commit 166b2a06dd6f321dd1dba9e1b6f7710aa4ddcb9b
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Wed Sep 21 14:54:16 2022 +0300
+
+    yaml folder and initial files
+
+commit 0f2c61ee775824d0bf6e468c2e2e4d0b97c46ea0
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Wed Sep 21 04:23:35 2022 +0300
+
+    python url connectivity checker codes
+
+commit feb0b6557424e4bf2023e2d9627acdcccf82c11d
+Merge: 99a2203 122a3e8
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Tue Sep 20 16:40:33 2022 +0300
+
+    Merge branch 'code102'
+
+commit 99a2203a52b4248253372838ba53266a419b151c
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Tue Sep 20 16:27:34 2022 +0300
+
+    Conflict commit
+
+commit 122a3e836b9a79a6ecff091099f828cb3d5ac16f
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Tue Sep 20 16:16:42 2022 +0300
+
+    aws-kub-masterclass from github
+
+commit ba8b81b5f3b6e4ef498fd7578c987110d7fdd6d0
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Tue Sep 20 16:13:09 2022 +0300
+
+    interger input
+
+commit 4991f50e8dadaccb8583fd9b313ac82634a3f216
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Tue Sep 20 15:48:25 2022 +0300
+
+    python changes
+
+commit 78a450d0892d9a4a767d182fd9cdb0cada3882a2
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Tue Sep 20 13:09:19 2022 +0300
+
+    weekend additions not tested
+
+commit 12224ec3bc72d95a358ec8d56c38fb1902e11036
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Thu Sep 15 22:02:57 2022 +0300
+
+    ytdownloader
+
+commit 679ad70205bb9ce3ace24af9c210988d5265097c
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Mon Sep 12 13:49:26 2022 +0300
+
+    githubprojects YoutubeStats
+
+commit 669a1cd493d705c73303cc02ac898660829e64ba
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Mon Sep 12 13:42:16 2022 +0300
+
+    ansible and java, docker and github
+
+commit c4ef02f058ab03712b042ad99d4ef684f043e1f2
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Sat Sep 10 22:32:42 2022 +0300
+
+    deleted extra spaces
+
+commit 69a43d81684f2306db028bd8d1d69a9099c6ffe8
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Sat Sep 10 19:18:49 2022 +0300
+
+    logical statements
+
+commit bc7f2ba1afd2e64c9d83886496e4c71588d9ea45
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Sat Sep 10 18:18:21 2022 +0300
+
+    logical_statements
+
+commit 0ce93c762077e678f0c61814fa351523c09ffdb8
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Sat Sep 10 16:19:05 2022 +0300
+
+    bash operators
+
+commit bac3787577258004952d26de7b0b4ef8b5dd8ac6
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Sat Sep 10 10:33:31 2022 +0300
+
+    Git branch notes added
+
+commit ae5559c8fc13412af36bfee5aff30b256e7e9572
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Sat Sep 10 10:06:05 2022 +0300
+
+    Git Hub Youtube Link
+
+commit 1c882a07f5e67157c96ad61d8a2fb71db2306fe1
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Sat Sep 10 09:56:34 2022 +0300
+
+    branch merge
+
+commit ced398bcd8553b87d8b436f3451fe04fd65ee2d7
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Sat Sep 10 09:45:02 2022 +0300
+
+    freeCampCodeProject
+
+commit 67e224976d6952efa3e8db8d60afef33ef5967f5
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Sat Sep 10 09:37:23 2022 +0300
+
+    Initial code101 Commit
+
+commit 676ee59ac38db235daa503996d929817748f5f2a
+Author: Onai Hector <onaimuta@gmail.com>
+Date:   Tue Sep 6 14:54:52 2022 +0300
+
+    Commit 060922
+
+commit 250b65131e62961b28bde1102f091a1b78293dbb
+Author: onaimuta <47508947+onaimuta@users.noreply.github.com>
+Date:   Sun Aug 14 11:29:49 2022 +0300
+
+    14-08-22 All Changes as at indicated date.
+    
+    14-08-22 All Changes as at indicated date.
