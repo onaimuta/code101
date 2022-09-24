@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< HEAD:Python/gcd.py
 import math
 
@@ -8,6 +9,8 @@ gcd = str(math.gcd(a,b))
 print("GCD = "+ gcd)
 input("\nPress enter to continue..")
 =======
+=======
+>>>>>>> code102
 import math
 
 print("Calculates GCD of two numbers \n ")
@@ -16,4 +19,7 @@ b = int(input("Enter second number: "))
 greatest_common_denomenator = str(math.gcd(a,b)) #calculates the greatest common denominator from given two numbers
 print("GCD = "+ greatest_common_denomenator)
 input("\nPress enter to continue..")
+<<<<<<< HEAD
 >>>>>>> code102:Python/maths_gcd.py
+=======
+>>>>>>> code102

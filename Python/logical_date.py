@@ -40,5 +40,9 @@ print(now.strftime(format))
 
 if 5 > 2:
     print("Five is greater than two!")
+<<<<<<< HEAD
+    print("Current date and time is "+now.strftime(format))
+>>>>>>> code102
+=======
     print("Current date and time is "+now.strftime(format))
 >>>>>>> code102
