@@ -1,0 +1,21 @@
+# while True:
+#     print ("Who are you?")
+#     name = input()
+#     if name != "Onai":
+#         continue
+#     print ("Hello, Onai. What is the password? (It is an entelope.)")
+#     password = input()
+#     if password == "eland" or "mhofu":
+#         break
+# print ("Welcome to the system!")
+
+while True:
+    print ("Who are you?")
+    name = input()
+    if name != "Onai":
+        continue
+    print ("Hello, Onai. What is the password?")
+    password = input()
+    if password == "pass123":
+        break
+print ("Access Granted")
