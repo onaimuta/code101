@@ -11,4 +11,3 @@ longest_word = max (word_list, key = len)
 print ("The longest word in the document is: " + longest_word)
 shortest_word = min (word_list, key = len)
 print ("The shortest word in the document is: " + shortest_word)
-
