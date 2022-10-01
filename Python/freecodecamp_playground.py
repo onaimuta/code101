@@ -24,7 +24,7 @@
 # r = random.randint(1, 9)
 # fortune = getAnswer(r)
 # print(fortune)
-import sys
+#import sys
 feline = ["cats", "lions", "cheetahs", "leopards", "jaguars", "tigers"]
 bovine = ["cattle", "bisons", "cape buffalos", "water buffalos", "spiral-horned antelopes"]
 #print (feline [0])

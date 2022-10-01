@@ -1,10 +1,22 @@
-i = 4
-d = 4.0
-s = 'HackerRank '
-a = 12 # Declare second integer, double, and String variables.
-b = 4.0 # Read and save an integer, double, and String to your variables.
-print (a + i) # Print the sum of both integer variables on a new line.
-print (d + b) # Print the sum of the double variables on a new line.
-c =  ("is the best place to learn and practice coding!") # Concatenate and print the String variables on a new line
-print (s + c) # The 's' variable above should be printed first.
+def isPhoneNumber(text):
+    if len(text) != 12:
+        return False
+    for i in range (0, 3):
+        if not text[i].isdecimal():
+            return False
+    if text[3] != '-':
+        return False
+    for i in range(4, 7):
+        if not text[i].isdecimal():
+            return False
+    if text[7] != '-':
+        return False
+    for i in range(8, 12):
+        if not text[i].isdecimal():
+            return False
+    return True
 
+print('Is 415-555-4242 a phone number?')
+print(isPhoneNumber('415-555-4242'))
+print('Is Moshi moshi a phone number?')
+print(isPhoneNumber('Moshi moshi'))
