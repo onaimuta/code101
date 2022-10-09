@@ -1,13 +1,9 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 import psutil
 cpu_usage = psutil.cpu_percent().percent
 print (cpu_usage)
 mem_usage = psutil.virtual_memory().percent
 print (mem_usage)
-=======
-=======
->>>>>>> code102
+
 from tqdm import tqdm
 from time import sleep
 import psutil
@@ -24,7 +20,3 @@ with tqdm(total=100, desc='cpu%', position=1) as cpubar, tqdm(total=100, desc='r
         rambar.refresh()
         cpubar.refresh()
         sleep(0.5)
-<<<<<<< HEAD
->>>>>>> code102
-=======
->>>>>>> code102
