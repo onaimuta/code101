@@ -5,6 +5,9 @@ from statistics import mean
 =======
 
 
+<<<<<<< HEAD
+>>>>>>> code102
+=======
 >>>>>>> code102
 math = int(input("Math Score: "))
 english = int(input("English Score: "))

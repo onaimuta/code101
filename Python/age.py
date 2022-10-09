@@ -6,12 +6,18 @@ print (txt.format(age))
 # print (bool("abc"))
 # print (bool(0))
 <<<<<<< HEAD
+<<<<<<< HEAD
 # print(2 ** 100) # Raise 2 to a power
 # x = 'Spam!'
 # print(x * 8) # String repetition
 =======
+=======
+>>>>>>> code102
 
 # print(2 ** 100) # Raise 2 to a power
 # x = 'Spam!'
 # print(x * 8) # String repetition
+<<<<<<< HEAD
+>>>>>>> code102
+=======
 >>>>>>> code102
