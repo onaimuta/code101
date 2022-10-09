@@ -1,6 +1,11 @@
 # import statistics
 from statistics import mean
 #import statistics
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> code102
 math = int(input("Math Score: "))
 english = int(input("English Score: "))
 science = int(input("Science Score: "))

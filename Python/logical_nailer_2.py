@@ -12,6 +12,7 @@
 #     n = n - 1
 # print ("Blast Off!")
 
+<<<<<<< HEAD
 import sys
 while True:
     print('Type exit to exit.')
@@ -19,3 +20,5 @@ while True:
     if response == 'exit':
         sys.exit()
     print('You typed ' + response + '.')
+=======
+>>>>>>> code102
