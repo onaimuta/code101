@@ -1,5 +1,5 @@
 # code101
-Systems Administrator turned DevOps Engineer 
+DevOps
 # DevOps # AWS # Bash # Linux # Git # Python # Agile # CI/CD # Networks # IT Systems # Tech
 
 - Hit me up 📫 onaimuta@gmail.com
