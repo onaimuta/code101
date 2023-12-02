@@ -1,0 +1,9 @@
+age = 21
+name = "Alice"
+if name == "Alice" and age<12:
+    print ("Hi, Alice")
+elif age>17:
+    print ("You are an adult my dear!")
+else:
+    print("Hello, Stranger")
+    print ("You are not Alice!")

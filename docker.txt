@@ -1,0 +1,1 @@
+ sudo apt-get install docker-ce=5:20.10.17~3-0~debian-bullseye docker-ce-cli=5:20.10.17~3-0~debian-bullseye containerd.io docker-compose-plugin

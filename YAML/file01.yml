@@ -1,0 +1,30 @@
+team: "Dynamos FC"
+city: "Harare"
+year_founded: 1965
+is_current_champion: false
+
+is_former_champion: true
+
+background: >
+    Dynamos Football Club was formed in 1963 in Mbare, Salisbury, Rhodesia. The Club was formed at the height of the Rhodesia Front’s racist onslaught which had seen sport being divided along racial lines.
+    Dynamos was an offshoot of two semi-professional clubs namely Salisbury United and Salisbury City who had disbanded in 1962. The disbanding of the two teams, who boasted some of the best football talents in the then Rhodesia National League, saw the birth of the club whose name was inspired by the old Dynamos Moscow Football Club of old Russia then.
+    The original team of 1963 which blended the “cream de la cream” of football in Salisbury‘s black community boasted of players who were entertainers par excellence.
+
+famous_players:
+    -Murape Murape
+    -George Shaya
+    -Asani Matola
+    -Francis Shonhayi
+    -Francis Chandida
+
+cups:
+    [1963 – Austen Cup, 1964 – Austen Cup, 1965 – League Champions, 1967 – Chibuku Trophy, 1969 – Chibuku Trophy, 1970 – League Championship, 1971 – Nyore Nyore Shield, 1972 – Chibuku Trophy, 1973 – BAT Rose bowl and Nyore Nyore Shield, 1974 – Nyore Nyore Shield, 1975 – Chibuku Trophy, 1976 – Won 7- 6 in the Cup against Orlando Pirates of South Africa]
+
+managers:
+    current: Tonderai Ndiraya
+    famous: Sunday mhofu Marimo
+    most_successful: Callisto Pasuwa
+
+#https://www.youtube.com/watch?v=FfjSA2o_0KA YAML tutorial
+# first: !include file.yml
+# second: !include_dir_list ./third
