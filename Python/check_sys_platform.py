@@ -1,2 +1,2 @@
 import sys 
-print (sys.copyright)
+print (sys.int_info)
