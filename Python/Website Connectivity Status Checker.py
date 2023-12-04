@@ -9,7 +9,9 @@
 
 from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
-req = Request("https://tragela.com")
+req = Request("https://edt.go.ug")
+# req = Request("https://paraxis.ug")
+
 try:
     response = urlopen(req)
 except HTTPError as e:
