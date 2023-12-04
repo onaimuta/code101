@@ -16,7 +16,7 @@ except HTTPError as e:
     print('The server couldn\'t fulfill the request.')
     print('Error code: ', e.code)
 except URLError as e:
-    print('We is Down!')
+    print('Website is Down!')
     print('Reason: ', e.reason)
 else:
     print ('Website is Up!')
