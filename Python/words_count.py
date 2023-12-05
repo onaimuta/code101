@@ -1,4 +1,4 @@
-file = open("C:\\Users\\HP\\OneDrive - Tragela\\Documents\\AIC.txt", "r")
+file = open("C:\\Users\\HP\\OneDrive - Tragela\\Documents\\PPDA Appeals Tribunal IT Policy-NITA Draft.txt", "r")
 read_data = file.read()
 #print (read_data) # reads text to terminal
 per_word = read_data.split()
