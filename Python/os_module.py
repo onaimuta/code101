@@ -1,3 +1,7 @@
 import os
-print ("Built on "+os.name+" technology")
-print (os.environ)
+import platform
+from datetime import datetime
+now = datetime.now()
+print ("This is "+platform.platform()+" Built on "+os.name+" Technology")
+# print ("Your request was fully processed at" +datetime.now())
+#print (os.environ)
